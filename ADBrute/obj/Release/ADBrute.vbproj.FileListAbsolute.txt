@@ -1,0 +1,10 @@
+D:\Apps\ADBrute\ADBrute\ADBrute\obj\Release\ADBrute.exe
+D:\Apps\ADBrute\ADBrute\ADBrute\obj\Release\ADBrute.pdb
+D:\Apps\ADBrute\ADBrute\ADBrute\bin\Release\ADBrute.exe
+D:\Apps\ADBrute\ADBrute\ADBrute\bin\Release\ADBrute.pdb
+D:\Apps\ADBrute\ADBrute\ADBrute\obj\Release\ADBrute.About.resources
+D:\Apps\ADBrute\ADBrute\ADBrute\obj\Release\ADBrute.ADBruteFrm.resources
+D:\Apps\ADBrute\ADBrute\ADBrute\obj\Release\ADBrute.ADLogin.resources
+D:\Apps\ADBrute\ADBrute\ADBrute\obj\Release\ADBrute.Resources.resources
+D:\Apps\ADBrute\ADBrute\ADBrute\obj\Release\ADBrute.PropertyWindow.resources
+D:\Apps\ADBrute\ADBrute\ADBrute\obj\Release\ADBrute.vbproj.GenerateResource.Cache
