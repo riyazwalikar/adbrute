@@ -13,8 +13,9 @@ ADBrute allows you to test the security of users in an Active Directory Environm
 A malicious user could easily use the default password to login into the victim's user accounts, delete, read and send mails or access other resources on the network.
 <br /><br />
 ADBrute allows you to scan the entire Active Directory for users who still have the default password. You can then issue warnings or reminders to the users to change their passwords. You may be surprised at the number of users that an organization has who do not change their passwords after it has been reset by the domain administrators.
-<br /><br />
+
 ## Usage
+
 ADBrute is simple to use: 
 
 1. Run ADBrute.
@@ -24,8 +25,7 @@ ADBrute is simple to use:
 5. Enter the default password for your organization and press the start button.
 6. Sit back until the program scans and enumerates users who use the default password.
 7. You can export both the lists, the entire user list as well as the weak user list to three different file formats, .csv, .txt and .xls.
-<br />
-<br />
+
 ## Known Issues
 
 1. Multiple executions of ADBrute may cause account lockouts if the number of attempts to a login have passed (usually 3). The maximum login attempt is an administrative domain policy and may differ with different organizations.
