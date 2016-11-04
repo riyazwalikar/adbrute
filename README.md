@@ -5,8 +5,8 @@
 - Microsoft .NET Runtime 3.0 above
 - Run ADBrute.vbproj
 - Compile or Run using the IDE
-<br />
-<br />
+
+
 ## About
 ADBrute allows you to test the security of users in an Active Directory Environment. When the domain policy causes the login password of a domain user to expire or when the user account is locked due to incorrect logins, the domain administrator may reset the password to the default password based on company policy. Many users do not change the default password after it has been reset by the administrator. This creates a major security hole in the domain environment.
 <br /><br />
